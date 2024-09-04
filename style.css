@@ -1,0 +1,148 @@
+header{
+    display: inline;
+    font-size: larger;
+    
+    
+}
+
+header a{
+    display: inline;
+    text-decoration: none;
+    color: black;
+    font-family:cursive;
+} 
+
+#category{
+
+    border: 0;
+    font-size: large;
+    appearance: none;
+    font-family:cursive;
+    background-color:whitesmoke;
+    
+}
+
+header table td{
+
+
+    padding: 0px 50px;
+}
+
+body{
+
+    background-color:whitesmoke;
+}
+
+
+
+ .contents *{
+    
+
+}
+/*
+.contents p{
+    float: right;
+} */
+
+#contents{
+    /* border: 1px solid black; */
+    margin: 0 auto;
+}
+#contents td{
+    padding: 0px 100px;
+    border: 0;
+    margin: 0px;
+    font-family:cursive;
+    font-size: large;
+    color: whitesmoke;
+    background-color: rgb(48, 48, 48);
+    line-height: 25px;
+}
+
+
+
+
+.banner{
+
+    background-image: radial-gradient(rgba(0, 0, 0, 0.100),rgba(0, 0, 0, 0.400)), url(https://images.pexels.com/photos/837140/pexels-photo-837140.jpeg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    border: 0 solid black;
+    margin: 10px 50px;
+    padding: 120px 10px;
+}
+.banner pre{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.banner input{
+    font-size: 20px;
+    
+    background-color: rgba(0, 0, 0, 0.371);
+    border-radius: 50px;
+    border: 0px;
+    color: whitesmoke;
+}
+
+
+.product{
+    text-align: center;
+    margin: 10px 0px;
+    background-color: #e9ecef;
+    padding: 10px;
+}
+
+.product table{
+    margin: 0 auto;
+    
+}
+
+
+
+.product td{
+    padding: 20px 50px;
+    font-size:normal;
+    font-family:'Courier New', Courier, monospace;
+    background-color: whitesmoke;
+
+}
+
+
+
+
+footer{
+    font-size: large;
+
+  }
+
+  footer h2{
+    font-size: 30px;
+    
+  }
+  footer a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
+
+#footertable{
+
+    margin: 0 auto;
+    
+}
+ #footertable h2{
+    margin: 0px;
+} 
+#footertable td{
+    padding: 0px 100px;
+}
+
+  .copyright{
+    clear: right;
+    display: block;
+    margin-top: 50px;
+    text-align: center;
+    font-size: smaller;
+    color: rgb(146, 146, 146);
+  }
